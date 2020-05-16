@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e7cc43edf4911014badc86d3d9741297
+  - enabled: 1
+    path: Assets/Scenes/Explore.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Explore2.unity
+    guid: 82e5d21955124d94186bc32d5cae734b
+  - enabled: 1
+    path: Assets/Scenes/Ghosts.unity
+    guid: 31640a4c6838a7b4b8e8ebb823f3b81c
+  - enabled: 1
+    path: Assets/Scenes/Ghosts2.unity
+    guid: 03991d631613d7d448a9a0e0e8f55d37
+  - enabled: 1
+    path: Assets/Scenes/King.unity
+    guid: c2d4767d8a26c424da9d0e7928cbe04a
+  - enabled: 1
+    path: Assets/Scenes/KingGhost.unity
+    guid: 757e603425ed2cb4585f0ad582c6cd3d
+  - enabled: 1
+    path: Assets/Scenes/Princess.unity
+    guid: 76aa53c422feba2419b728aec63a8e02
+  - enabled: 1
+    path: Assets/Scenes/PrincessGhost.unity
+    guid: 02662d1a8eaf34f4e8f63a10c4ae0a6e
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 08c469aee97a62748be74878c5398163
+  - enabled: 1
+    path: Assets/Scenes/Crypt.unity
+    guid: 75b850d0a610ae94ea7c57fed709645b
+  - enabled: 1
+    path: Assets/Scenes/End Credits.unity
+    guid: c2b123105ef32af4489b63347c06c203
+  - enabled: 1
+    path: Assets/Scenes/ThroneRoom.unity
+    guid: 44b78ee3ea293af489787aad2914523c
+  - enabled: 1
+    path: Assets/Scenes/ThroneRoomGhost.unity
+    guid: 26b996cbb5cf77a45a2970bb5ac4118d
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 82173bc486f92824aa1d0d46d3e374cc
+  m_configObjects: {}
